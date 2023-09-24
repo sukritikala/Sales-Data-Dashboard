@@ -1,0 +1,501 @@
+Order ID,Order Date,Delivery Days,CustomerName,State,City,Amount,Profit,Quantity,Category,SuO-Category
+O-25928,01-01-2022,10,Smriti,Bihar,Patna,41,-6,1,Furniture,Chairs
+O-25929,02-01-2022,10,Girase,Kerala ,Thiruvananthapuram,216,-38,6,Furniture,Furnishings
+O-25930,03-01-2022,4,Monica,Punjab,Chandigarh,616,-69,7,Furniture,Furnishings
+O-25931,04-01-2022,1,Sidharth,Maharashtra,Mumbai,10,-1,1,Clothing,Leggings
+O-25932,04-01-2022,6,Bhutekar,Madhya Pradesh,Indore,25,0,4,Clothing,Skirt
+O-25933,04-01-2022,1,Shikhar,Maharashtra,Mumbai,53,-18,4,Clothing,T-shirt
+O-25934,04-01-2022,9,Rahul,Madhya Pradesh,Indore,13,-8,1,Clothing,T-shirt
+O-25935,04-01-2022,9,Sudhir,Nagaland,Kohima,100,-58,4,Clothing,Hankerchief
+O-25936,05-01-2022,1,Nikhil,Punjab,Chandigarh,193,-275,3,Electronics,Phones
+O-25937,05-01-2022,5,Ankit,Haryana,Chandigarh,158,-63,4,Furniture,Chairs
+O-25938,05-01-2022,10,Shikhar,Himachal Pradesh,Simla,11,-5,2,Clothing,Hankerchief
+O-25939,05-01-2022,1,Vineet,Sikkim,Gangtok,340,20,7,Clothing,Shirt
+O-25940,06-01-2022,4,Vivek,Goa,Goa,416,137,3,Electronics,Phones
+O-25941,07-01-2022,6,Jaideep,Nagaland,Kohima,58,0,4,Clothing,Saree
+O-25942,08-01-2022,1,Ankur,Andhra Pradesh,Hyderabad,561,212,3,Clothing,Saree
+O-25943,09-01-2022,1,Shardul,Gujarat,Ahmedabad,138,-3,5,Clothing,Saree
+O-25944,10-01-2022,7,Syed,Maharashtra,Pune,90,17,3,Clothing,Shirt
+O-25945,11-01-2022,9,Mhatre,Madhya Pradesh,Indore,55,-33,2,Furniture,Chairs
+O-25946,12-01-2022,1,Saurabh,Andhra Pradesh,Hyderabad,371,115,1,Furniture,Bookcases
+O-25947,13-01-2022,10,Chetan,Gujarat,Ahmedabad,460,31,3,Furniture,Bookcases
+O-25948,13-01-2022,7,Mukund,Maharashtra,Pune,29,10,2,Clothing,Stole
+O-25949,13-01-2022,10,Shantanu,Maharashtra,Mumbai,30,-35,1,Furniture,Chairs
+O-25950,13-01-2022,10,Shruti,Madhya Pradesh,Indore,29,-18,7,Clothing,Skirt
+O-25951,13-01-2022,7,Jesal,West Bengal,Kolkata,191,51,5,Clothing,Shirt
+O-25952,13-01-2022,8,Priyanka,Madhya Pradesh,Indore,149,-40,2,Electronics,Phones
+O-25953,14-01-2022,1,Krutika,Andhra Pradesh,Hyderabad,48,-8,8,Clothing,Stole
+O-25954,14-01-2022,10,Trupti,Gujarat,Ahmedabad,26,-24,1,Clothing,Stole
+O-25955,16-01-2022,7,Soumya,Maharashtra,Pune,16,-12,2,Clothing,Stole
+O-25956,17-01-2022,1,Shreya,Maharashtra,Mumbai,12,-7,2,Clothing,Leggings
+O-25957,18-01-2022,1,Mahima,Madhya Pradesh,Indore,76,-54,3,Electronics,Electronic Games
+O-25958,18-01-2022,4,Aparajita,West Bengal,Kolkata,168,-51,2,Furniture,Bookcases
+O-25959,18-01-2022,5,Muskan,Madhya Pradesh,Indore,23,-5,7,Clothing,Hankerchief
+O-25960,18-01-2022,7,Shreya,Andhra Pradesh,Hyderabad,26,-5,2,Clothing,Stole
+O-25961,18-01-2022,2,Surbhi,Gujarat,Ahmedabad,144,-7,4,Electronics,Electronic Games
+O-25962,19-01-2022,10,Tejeswini,Maharashtra,Pune,490,-128,8,Furniture,Bookcases
+O-25963,19-01-2022,7,Pratiksha,Maharashtra,Mumbai,57,-48,6,Clothing,Leggings
+O-25964,20-01-2022,5,Oshin,Madhya Pradesh,Indore,327,114,4,Clothing,Trousers
+O-25965,21-01-2022,2,Saloni,West Bengal,Kolkata,1055,264,4,Electronics,Printers
+O-25966,21-01-2022,9,Soumya,Rajasthan,Udaipur,771,-424,2,Electronics,Phones
+O-25967,21-01-2022,1,Komal,Uttar Pradesh,Allahabad,322,-113,4,Clothing,Saree
+O-25968,21-01-2022,10,Paromita,Punjab,Amritsar,1549,-439,4,Electronics,Phones
+O-25969,21-01-2022,4,Shreyshi,Gujarat,Surat,1145,-706,3,Electronics,Phones
+O-25970,22-01-2022,2,Rhea,Maharashtra,Mumbai,473,42,4,Furniture,Chairs
+O-25971,22-01-2022,3,Mitali,Madhya Pradesh,Indore,96,22,5,Clothing,Stole
+O-25972,23-01-2022,2,Jesslyn,Rajasthan,Udaipur,18,8,2,Clothing,Hankerchief
+O-25973,24-01-2022,5,Seema,Uttar Pradesh,Allahabad,187,30,4,Electronics,Accessories
+O-25974,25-01-2022,2,Manisha,Rajasthan,Udaipur,83,-81,3,Furniture,Chairs
+O-25975,25-01-2022,6,Priyanka,Uttar Pradesh,Allahabad,131,-154,8,Furniture,Furnishings
+O-25976,25-01-2022,4,Piyam,Punjab,Amritsar,16,-5,2,Clothing,Stole
+O-25977,27-01-2022,3,Aayushi,Gujarat,Surat,43,-43,7,Clothing,Stole
+O-25978,27-01-2022,9,Parin,Maharashtra,Mumbai,30,-10,2,Clothing,Stole
+O-25979,27-01-2022,1,Shivangi,Madhya Pradesh,Indore,23,-6,4,Clothing,Hankerchief
+O-25980,27-01-2022,4,Shweta,Rajasthan,Udaipur,108,-19,3,Electronics,Electronic Games
+O-25981,28-01-2022,2,Amruta,Delhi,Delhi,12,-2,3,Clothing,Hankerchief
+O-25982,29-01-2022,2,Hemangi,Delhi,Delhi,7,-1,2,Clothing,Skirt
+O-25983,30-01-2022,8,Atul,Delhi,Delhi,15,-7,1,Clothing,Hankerchief
+O-25984,30-01-2022,2,Kajal,Delhi,Delhi,31,-7,5,Clothing,Skirt
+O-25985,31-01-2022,8,Ginny,Madhya Pradesh,Indore,187,-15,3,Clothing,Trousers
+O-25986,31-01-2022,3,Shweta,Rajasthan,Udaipur,70,-14,2,Furniture,Furnishings
+O-25987,31-01-2022,1,Manjiri,Delhi,Delhi,72,-6,3,Clothing,Saree
+O-25988,31-01-2022,7,Nirja,Delhi,Delhi,1069,0,6,Clothing,Saree
+O-25989,01-02-2022,5,Anjali,Delhi,Delhi,148,-91,2,Electronics,Phones
+O-25990,02-02-2022,6,Mugdha,Delhi,Delhi,133,-56,2,Furniture,Chairs
+O-25991,03-02-2022,2,Mansi,Madhya Pradesh,Indore,40,-37,3,Clothing,Stole
+O-25992,03-02-2022,7,Gaurav,Rajasthan,Udaipur,7,0,2,Clothing,Skirt
+O-25993,03-02-2022,5,Harshal,Delhi,Delhi,58,-8,2,Clothing,Saree
+O-25994,03-02-2022,1,Omkar,Delhi,Delhi,482,-6,7,Electronics,Electronic Games
+O-25995,04-02-2022,10,Yohann,Delhi,Delhi,11,-8,2,Clothing,Skirt
+O-25996,04-02-2022,1,Prashant,Delhi,Delhi,143,-124,5,Clothing,Saree
+O-25997,04-02-2022,5,Yogesh,Madhya Pradesh,Indore,9,-5,1,Clothing,Saree
+O-25998,04-02-2022,5,Anmol,Rajasthan,Udaipur,503,-56,2,Clothing,Trousers
+O-25999,05-02-2022,4,Diwakar,Delhi,Delhi,74,-51,3,Clothing,Stole
+O-26000,06-02-2022,7,Shubham,Delhi,Delhi,56,0,4,Clothing,Hankerchief
+O-26001,07-02-2022,3,Patil,Delhi,Delhi,373,-254,6,Electronics,Printers
+O-26002,08-02-2022,4,Harsh,Delhi,Delhi,44,-8,3,Clothing,Stole
+O-26003,08-02-2022,8,Hitesh,Madhya Pradesh,Bhopal,296,-225,11,Clothing,Saree
+O-26004,08-02-2022,5,Nandita,Rajasthan,Jaipur,670,15,5,Furniture,Bookcases
+O-26005,08-02-2022,7,Parnavi,West Bengal,Kolkata,132,-79,5,Furniture,Furnishings
+O-26006,09-02-2022,2,Arpita,Karnataka,Bangalore,87,16,2,Clothing,Saree
+O-26007,09-02-2022,8,Shubham,Jammu and Kashmir,Kashmir,877,395,2,Furniture,Bookcases
+O-26008,09-02-2022,5,Kalyani,Tamil Nadu,Chennai,141,10,4,Clothing,Shirt
+O-26009,10-02-2022,1,Komal,Uttar Pradesh,Lucknow,224,58,3,Electronics,Phones
+O-26010,11-02-2022,2,Kartikay,Bihar,Patna,8,-1,2,Clothing,Leggings
+O-26011,12-02-2022,9,Bharat,Gujarat,Ahmedabad,47,-21,2,Electronics,Electronic Games
+O-26012,13-02-2022,3,Pearl,Maharashtra,Pune,1052,-82,3,Furniture,Bookcases
+O-26013,13-02-2022,6,Jahan,Madhya Pradesh,Bhopal,212,-24,2,Furniture,Chairs
+O-26014,13-02-2022,3,Divsha,Rajasthan,Jaipur,42,-15,12,Clothing,Skirt
+O-26015,14-02-2022,5,Kasheen,West Bengal,Kolkata,208,-25,2,Clothing,Saree
+O-26016,14-02-2022,4,Hazel,Karnataka,Bangalore,22,-12,3,Clothing,Stole
+O-26017,14-02-2022,1,Sonakshi,Jammu and Kashmir,Kashmir,539,-146,7,Furniture,Furnishings
+O-26018,14-02-2022,4,Aarushi,Tamil Nadu,Chennai,78,-6,2,Furniture,Furnishings
+O-26019,15-02-2022,3,Jitesh,Uttar Pradesh,Lucknow,20,-18,2,Clothing,Saree
+O-26020,16-02-2022,6,Yogesh,Bihar,Patna,19,-1,1,Clothing,Shirt
+O-26021,17-02-2022,3,Anita,Kerala ,Thiruvananthapuram,73,-31,1,Furniture,Bookcases
+O-26022,18-02-2022,5,Shrichand,Punjab,Chandigarh,10,-8,1,Clothing,Kurti
+O-26023,19-02-2022,8,Mukesh,Haryana,Chandigarh,14,-3,2,Clothing,Leggings
+O-26024,19-02-2022,10,Vandana,Himachal Pradesh,Simla,68,-56,2,Electronics,Phones
+O-26025,19-02-2022,6,Bhavna,Sikkim,Gangtok,106,0,2,Electronics,Phones
+O-26026,19-02-2022,9,Kanak,Goa,Goa,43,-5,2,Clothing,Saree
+O-26027,20-02-2022,4,Sagar,Nagaland,Kohima,43,21,3,Clothing,Shirt
+O-26028,20-02-2022,5,Manju,Andhra Pradesh,Hyderabad,534,5,2,Electronics,Electronic Games
+O-26029,20-02-2022,5,Ramesh,Gujarat,Ahmedabad,32,7,3,Clothing,Hankerchief
+O-26030,21-02-2022,6,Sarita,Maharashtra,Pune,65,-4,6,Clothing,Hankerchief
+O-26031,22-02-2022,6,Deepak,Madhya Pradesh,Bhopal,221,-15,2,Electronics,Electronic Games
+O-26032,22-02-2022,1,Monisha,Rajasthan,Jaipur,1361,197,9,Furniture,Bookcases
+O-26033,22-02-2022,4,Atharv,West Bengal,Kolkata,761,266,9,Electronics,Electronic Games
+O-26034,23-02-2022,4,Vini,Karnataka,Bangalore,76,27,5,Clothing,Stole
+O-26035,23-02-2022,3,Pinky,Jammu and Kashmir,Kashmir,91,15,6,Clothing,T-shirt
+O-26036,23-02-2022,3,Bhishm,Maharashtra,Mumbai,8,-2,2,Clothing,Hankerchief
+O-26037,23-02-2022,10,Hitika,Madhya Pradesh,Indore,735,-235,6,Electronics,Printers
+O-26038,24-02-2022,4,Pooja,Bihar,Patna,33,-27,1,Furniture,Chairs
+O-26039,25-02-2022,5,Hemant,Kerala ,Thiruvananthapuram,62,-56,5,Clothing,Kurti
+O-26040,26-02-2022,5,Sahil,Punjab,Chandigarh,27,-20,2,Clothing,Hankerchief
+O-26041,27-02-2022,2,Ritu,Haryana,Chandigarh,65,-52,3,Electronics,Accessories
+O-26042,28-02-2022,4,Manish,Himachal Pradesh,Simla,47,-114,5,Furniture,Furnishings
+O-26043,01-03-2022,9,Amit,Sikkim,Gangtok,341,-85,6,Clothing,Trousers
+O-26044,02-03-2022,6,Sanjay,Goa,Goa,107,31,5,Clothing,T-shirt
+O-26045,03-03-2022,1,Nidhi,Nagaland,Kohima,154,22,7,Clothing,T-shirt
+O-26046,04-03-2022,8,Nishi,Maharashtra,Mumbai,620,82,6,Electronics,Accessories
+O-26047,04-03-2022,10,Ashmi,Madhya Pradesh,Indore,77,-43,8,Clothing,Stole
+O-26048,04-03-2022,3,Parth,Maharashtra,Pune,72,-46,7,Clothing,Kurti
+O-26049,05-03-2022,1,Lisha,Madhya Pradesh,Bhopal,41,-14,5,Clothing,Leggings
+O-26050,06-03-2022,10,Paridhi,Rajasthan,Jaipur,30,-23,2,Clothing,Saree
+O-26051,07-03-2022,8,Parishi,West Bengal,Kolkata,93,-65,4,Clothing,Stole
+O-26052,08-03-2022,6,Ajay,Karnataka,Bangalore,19,0,3,Clothing,Skirt
+O-26053,09-03-2022,10,Kirti,Jammu and Kashmir,Kashmir,9,-1,3,Clothing,Skirt
+O-26054,10-03-2022,3,Mayank,Maharashtra,Mumbai,319,-312,5,Clothing,Saree
+O-26055,10-03-2022,6,Yaanvi,Madhya Pradesh,Indore,262,-215,2,Electronics,Printers
+O-26056,10-03-2022,2,Sonal,Bihar,Patna,37,-53,3,Clothing,Saree
+O-26057,10-03-2022,9,Sharda,Kerala ,Thiruvananthapuram,257,-3,2,Furniture,Bookcases
+O-26058,11-03-2022,4,Aditya,Punjab,Chandigarh,80,-19,5,Clothing,Stole
+O-26059,12-03-2022,9,Rachna,Haryana,Chandigarh,321,-315,5,Clothing,Saree
+O-26060,13-03-2022,10,Chirag,Maharashtra,Mumbai,47,-3,2,Clothing,Stole
+O-26061,14-03-2022,7,Anurag,Madhya Pradesh,Indore,593,213,4,Furniture,Bookcases
+O-26062,15-03-2022,1,Tushina,Goa,Goa,134,-34,2,Furniture,Chairs
+O-26063,15-03-2022,9,Farah,Nagaland,Kohima,1709,564,3,Clothing,Trousers
+O-26064,16-03-2022,7,Ankita,Maharashtra,Mumbai,27,4,2,Clothing,Saree
+O-26065,16-03-2022,9,Nida,Madhya Pradesh,Indore,465,-33,4,Electronics,Phones
+O-26066,16-03-2022,2,Priyanka,Maharashtra,Pune,643,-45,2,Electronics,Printers
+O-26067,16-03-2022,3,Tulika,Madhya Pradesh,Bhopal,204,-276,3,Furniture,Bookcases
+O-26068,16-03-2022,5,Shefali,Rajasthan,Jaipur,729,-492,5,Furniture,Bookcases
+O-26069,17-03-2022,7,Sanskriti,West Bengal,Kolkata,29,-24,4,Clothing,Leggings
+O-26070,18-03-2022,10,Shruti,Karnataka,Bangalore,17,-13,4,Clothing,Skirt
+O-26071,19-03-2022,8,Subhashree,Jammu and Kashmir,Kashmir,34,-11,5,Clothing,T-shirt
+O-26072,20-03-2022,3,Sweta,Maharashtra,Mumbai,98,9,2,Furniture,Furnishings
+O-26073,21-03-2022,9,Pournamasi,Madhya Pradesh,Indore,3151,-35,7,Clothing,Trousers
+O-26074,21-03-2022,3,Bharat,Gujarat,Ahmedabad,53,15,2,Clothing,Stole
+O-26075,21-03-2022,8,Pearl,Maharashtra,Pune,165,30,3,Clothing,Stole
+O-26076,21-03-2022,4,Jahan,Madhya Pradesh,Bhopal,211,19,8,Clothing,Stole
+O-26077,22-03-2022,1,Divsha,Rajasthan,Jaipur,106,15,7,Clothing,Hankerchief
+O-26078,22-03-2022,8,Kasheen,West Bengal,Kolkata,14,5,1,Clothing,Hankerchief
+O-26079,22-03-2022,6,Hazel,Karnataka,Bangalore,17,7,3,Clothing,Hankerchief
+O-26080,22-03-2022,1,Sonakshi,Jammu and Kashmir,Kashmir,46,14,5,Clothing,Skirt
+O-26081,22-03-2022,10,Aarushi,Tamil Nadu,Chennai,8,-2,1,Clothing,Stole
+O-26082,23-03-2022,3,Jitesh,Uttar Pradesh,Lucknow,20,-9,6,Clothing,Hankerchief
+O-26083,24-03-2022,10,Yogesh,Bihar,Patna,322,-193,5,Electronics,Printers
+O-26084,25-03-2022,8,Anita,Kerala ,Thiruvananthapuram,2188,1050,5,Furniture,Bookcases
+O-26085,26-03-2022,5,Shrichand,Punjab,Chandigarh,328,-15,3,Electronics,Electronic Games
+O-26086,26-03-2022,3,Mukesh,Haryana,Chandigarh,418,70,7,Electronics,Phones
+O-26087,26-03-2022,5,Vandana,Himachal Pradesh,Simla,40,0,3,Clothing,Saree
+O-26088,26-03-2022,6,Bhavna,Sikkim,Gangtok,102,-90,1,Clothing,Saree
+O-26089,26-03-2022,6,Kanak,Goa,Goa,263,-31,9,Electronics,Electronic Games
+O-26090,27-03-2022,4,Sagar,Nagaland,Kohima,1316,-527,7,Electronics,Electronic Games
+O-26091,27-03-2022,6,Manju,Andhra Pradesh,Hyderabad,27,4,3,Clothing,Skirt
+O-26092,27-03-2022,10,Ramesh,Gujarat,Ahmedabad,98,-5,2,Clothing,Saree
+O-26093,27-03-2022,5,Sarita,Maharashtra,Pune,58,-52,3,Furniture,Chairs
+O-26094,27-03-2022,1,Deepak,Madhya Pradesh,Bhopal,119,43,5,Clothing,T-shirt
+O-26095,28-03-2022,9,Monisha,Rajasthan,Jaipur,765,-153,2,Electronics,Phones
+O-26096,28-03-2022,1,Atharv,West Bengal,Kolkata,26,0,2,Clothing,Kurti
+O-26097,28-03-2022,9,Vini,Karnataka,Bangalore,24,-24,2,Clothing,Saree
+O-26098,29-03-2022,10,Pinky,Jammu and Kashmir,Kashmir,139,14,3,Clothing,Stole
+O-26099,30-03-2022,5,Bhishm,Maharashtra,Mumbai,220,-19,2,Clothing,Saree
+O-26100,31-03-2022,4,Hitika,Madhya Pradesh,Indore,299,-28,3,Electronics,Electronic Games
+O-25601,01-04-2022,4,Bharat,Gujarat,Ahmedabad,1275,-1148,7,Furniture,Bookcases
+O-25602,01-04-2022,8,Pearl,Maharashtra,Pune,66,-12,5,Clothing,Stole
+O-25603,03-04-2022,9,Jahan,Madhya Pradesh,Bhopal,8,-2,3,Clothing,Hankerchief
+O-25604,03-04-2022,10,Divsha,Rajasthan,Jaipur,80,-56,4,Electronics,Electronic Games
+O-25605,05-04-2022,3,Kasheen,West Bengal,Kolkata,168,-111,2,Electronics,Phones
+O-25606,06-04-2022,6,Hazel,Karnataka,Bangalore,424,-272,5,Electronics,Phones
+O-25607,06-04-2022,4,Sonakshi,Jammu and Kashmir,Kashmir,2617,1151,4,Electronics,Phones
+O-25608,08-04-2022,4,Aarushi,Tamil Nadu,Chennai,561,212,3,Clothing,Saree
+O-25609,09-04-2022,10,Jitesh,Uttar Pradesh,Lucknow,119,-5,8,Clothing,Saree
+O-25610,09-04-2022,4,Yogesh,Bihar,Patna,1355,-60,5,Clothing,Trousers
+O-25611,11-04-2022,7,Anita,Kerala ,Thiruvananthapuram,24,-30,1,Furniture,Chairs
+O-25612,12-04-2022,1,Shrichand,Punjab,Chandigarh,193,-166,3,Clothing,Saree
+O-25613,12-04-2022,6,Mukesh,Haryana,Chandigarh,180,5,3,Clothing,Trousers
+O-25614,13-04-2022,10,Vandana,Himachal Pradesh,Simla,116,16,4,Clothing,Stole
+O-25615,15-04-2022,4,Bhavna,Sikkim,Gangtok,107,36,6,Clothing,Stole
+O-25616,15-04-2022,5,Kanak,Goa,Goa,12,1,2,Clothing,Hankerchief
+O-25617,17-04-2022,1,Sagar,Nagaland,Kohima,38,18,1,Clothing,Kurti
+O-25618,18-04-2022,8,Manju,Andhra Pradesh,Hyderabad,65,17,2,Clothing,T-shirt
+O-25619,18-04-2022,3,Ramesh,Gujarat,Ahmedabad,157,5,9,Clothing,Saree
+O-25620,20-04-2022,9,Sarita,Maharashtra,Pune,75,0,7,Clothing,Saree
+O-25621,20-04-2022,8,Deepak,Madhya Pradesh,Bhopal,87,4,2,Clothing,Shirt
+O-25622,22-04-2022,2,Monisha,Rajasthan,Jaipur,50,15,4,Clothing,Leggings
+O-25623,22-04-2022,8,Atharv,West Bengal,Kolkata,1364,-1864,5,Furniture,Tables
+O-25624,22-04-2022,5,Vini,Karnataka,Bangalore,476,0,3,Furniture,Chairs
+O-25625,23-04-2022,1,Pinky,Jammu and Kashmir,Kashmir,257,23,5,Clothing,Hankerchief
+O-25626,23-04-2022,9,Bhishm,Maharashtra,Mumbai,856,385,6,Electronics,Printers
+O-25627,23-04-2022,5,Hitika,Madhya Pradesh,Indore,485,29,4,Electronics,Electronic Games
+O-25628,24-04-2022,6,Pooja,Bihar,Patna,25,-5,4,Clothing,Saree
+O-25629,24-04-2022,2,Hemant,Kerala ,Thiruvananthapuram,1076,-38,4,Electronics,Printers
+O-25630,24-04-2022,2,Sahil,Punjab,Chandigarh,107,-54,4,Clothing,Stole
+O-25631,24-04-2022,10,Ritu,Haryana,Chandigarh,68,-55,5,Electronics,Accessories
+O-25632,25-04-2022,2,Manish,Himachal Pradesh,Simla,781,-594,6,Electronics,Printers
+O-25633,26-04-2022,7,Amit,Sikkim,Gangtok,43,0,3,Clothing,Saree
+O-25634,26-04-2022,7,Sanjay,Goa,Goa,30,-5,2,Furniture,Furnishings
+O-25635,26-04-2022,8,Nidhi,Nagaland,Kohima,160,-59,2,Clothing,Saree
+O-25636,26-04-2022,2,Nishi,Maharashtra,Mumbai,259,-55,2,Furniture,Chairs
+O-25637,26-04-2022,2,Ashmi,Madhya Pradesh,Indore,1603,0,9,Clothing,Saree
+O-25638,26-04-2022,10,Parth,Maharashtra,Pune,494,54,4,Furniture,Bookcases
+O-25639,27-04-2022,3,Lisha,Madhya Pradesh,Bhopal,98,-12,2,Electronics,Electronic Games
+O-25640,27-04-2022,1,Paridhi,Rajasthan,Jaipur,68,20,5,Clothing,Hankerchief
+O-25641,27-04-2022,5,Parishi,West Bengal,Kolkata,42,12,5,Clothing,Hankerchief
+O-25642,28-04-2022,6,Ajay,Karnataka,Bangalore,116,-56,5,Clothing,Stole
+O-25643,29-04-2022,5,Kirti,Jammu and Kashmir,Kashmir,22,-2,3,Clothing,Hankerchief
+O-25644,30-04-2022,4,Mayank,Maharashtra,Mumbai,14,-2,3,Clothing,Hankerchief
+O-25645,01-05-2022,8,Yaanvi,Madhya Pradesh,Indore,305,-270,5,Electronics,Electronic Games
+O-25646,01-05-2022,7,Sonal,Bihar,Patna,362,127,1,Furniture,Bookcases
+O-25647,03-05-2022,9,Sharda,Kerala ,Thiruvananthapuram,12,0,2,Clothing,Hankerchief
+O-25648,04-05-2022,10,Aditya,Punjab,Chandigarh,353,90,8,Clothing,Saree
+O-25649,05-05-2022,9,Rachna,Haryana,Chandigarh,193,46,1,Electronics,Printers
+O-25650,06-05-2022,6,Chirag,Maharashtra,Mumbai,233,-10,5,Electronics,Electronic Games
+O-25651,07-05-2022,4,Anurag,Madhya Pradesh,Indore,228,63,3,Electronics,Electronic Games
+O-25652,08-05-2022,9,Tushina,Goa,Goa,333,-15,3,Electronics,Phones
+O-25653,08-05-2022,5,Farah,Nagaland,Kohima,534,0,3,Clothing,Saree
+O-25654,10-05-2022,7,Sabah,Maharashtra,Mumbai,53,1,4,Clothing,Stole
+O-25655,11-05-2022,4,Nida,Madhya Pradesh,Indore,158,69,3,Clothing,Stole
+O-25656,11-05-2022,7,Priyanka,Maharashtra,Pune,149,-87,4,Clothing,Saree
+O-25657,13-05-2022,6,Tulika,Madhya Pradesh,Bhopal,105,20,2,Clothing,Stole
+O-25658,14-05-2022,5,Shefali,Rajasthan,Jaipur,26,12,3,Clothing,Hankerchief
+O-25659,15-05-2022,7,Sanskriti,West Bengal,Kolkata,97,29,2,Clothing,Hankerchief
+O-25660,16-05-2022,6,Shruti,Karnataka,Bangalore,59,30,3,Clothing,Leggings
+O-25661,17-05-2022,1,Subhashree,Jammu and Kashmir,Kashmir,635,-349,5,Clothing,Saree
+O-25662,17-05-2022,1,Sweta,Maharashtra,Mumbai,46,-14,1,Electronics,Phones
+O-25663,19-05-2022,8,Pournamasi,Madhya Pradesh,Indore,1103,-276,3,Furniture,Chairs
+O-25664,20-05-2022,3,Pratyusmita,Bihar,Patna,55,-39,4,Clothing,Stole
+O-25665,21-05-2022,3,Chayanika,Kerala ,Thiruvananthapuram,45,13,4,Clothing,Skirt
+O-25666,22-05-2022,9,Tanvi,Punjab,Chandigarh,24,-9,4,Clothing,Saree
+O-25667,23-05-2022,4,Anjali,Haryana,Chandigarh,35,-8,2,Furniture,Furnishings
+O-25668,24-05-2022,7,Rhea,Himachal Pradesh,Simla,1560,421,3,Clothing,Trousers
+O-25669,25-05-2022,4,Piyali,Sikkim,Gangtok,133,12,5,Clothing,Stole
+O-25670,25-05-2022,10,Charika,Goa,Goa,114,-39,5,Clothing,Kurti
+O-25671,27-05-2022,10,Mitali,Nagaland,Kohima,143,-129,2,Electronics,Phones
+O-25672,28-05-2022,4,Akanksha,Andhra Pradesh,Hyderabad,40,-7,3,Clothing,Stole
+O-25673,28-05-2022,3,Arsheen,Gujarat,Ahmedabad,34,-22,4,Clothing,T-shirt
+O-25674,28-05-2022,6,Mahima,Maharashtra,Pune,42,-26,2,Clothing,Kurti
+O-25675,31-05-2022,10,Shreya,Madhya Pradesh,Bhopal,89,-89,2,Furniture,Furnishings
+O-25676,01-06-2022,8,Chandni,Rajasthan,Jaipur,19,-2,2,Clothing,Leggings
+O-25677,02-06-2022,3,Ekta,West Bengal,Kolkata,249,-130,4,Electronics,Phones
+O-25678,03-06-2022,1,Bathina,Karnataka,Bangalore,711,-8,4,Clothing,Saree
+O-25679,04-06-2022,3,Avni,Maharashtra,Mumbai,496,-79,2,Clothing,Trousers
+O-25680,04-06-2022,4,Aayushi,Madhya Pradesh,Indore,389,-83,3,Furniture,Chairs
+O-25681,04-06-2022,2,Bhawna,Madhya Pradesh,Indore,40,16,3,Clothing,Hankerchief
+O-25682,07-06-2022,2,Krutika,Bihar,Patna,23,2,2,Clothing,Skirt
+O-25683,08-06-2022,10,Shreya,Kerala ,Thiruvananthapuram,382,30,3,Clothing,Saree
+O-25684,09-06-2022,9,Samiksha,Maharashtra,Mumbai,637,113,5,Clothing,Saree
+O-25685,10-06-2022,10,Sheetal,Madhya Pradesh,Indore,117,14,3,Clothing,Shirt
+O-25686,11-06-2022,8,Pooja,Himachal Pradesh,Simla,182,-11,3,Furniture,Bookcases
+O-25687,11-06-2022,7,Sanjna,Maharashtra,Mumbai,880,97,8,Furniture,Furnishings
+O-25688,11-06-2022,7,Swetha,Madhya Pradesh,Indore,154,39,3,Clothing,Hankerchief
+O-25689,14-06-2022,2,Bhaggyasree,Maharashtra,Mumbai,816,-96,3,Electronics,Printers
+O-25690,15-06-2022,5,Gunjan,Madhya Pradesh,Indore,1629,-153,3,Electronics,Phones
+O-25691,16-06-2022,10,Akancha,Maharashtra,Mumbai,68,-62,2,Clothing,Trousers
+O-25692,17-06-2022,6,Rashmi,Madhya Pradesh,Indore,314,-239,13,Clothing,Hankerchief
+O-25693,18-06-2022,2,Parna,Madhya Pradesh,Bhopal,122,-47,4,Clothing,Saree
+O-25694,18-06-2022,5,Subhasmita,Rajasthan,Jaipur,22,-6,1,Furniture,Furnishings
+O-25695,18-06-2022,4,Suhani,West Bengal,Kolkata,434,26,11,Clothing,Shirt
+O-25696,21-06-2022,9,Noopur,Karnataka,Bangalore,1061,-36,8,Furniture,Bookcases
+O-25697,22-06-2022,7,Vijay,Jammu and Kashmir,Kashmir,50,-44,2,Clothing,Hankerchief
+O-25698,23-06-2022,9,Amisha,Tamil Nadu,Chennai,37,-23,4,Clothing,Shirt
+O-25699,24-06-2022,8,Kritika,Uttar Pradesh,Lucknow,263,-63,2,Electronics,Electronic Games
+O-25700,25-06-2022,10,Shubhi,Maharashtra,Mumbai,36,-7,1,Electronics,Electronic Games
+O-25701,26-06-2022,3,Maithilee,Madhya Pradesh,Indore,76,-92,8,Furniture,Furnishings
+O-25702,27-06-2022,2,Shaily,Maharashtra,Mumbai,273,-87,4,Electronics,Phones
+O-25703,28-06-2022,3,Ekta,Madhya Pradesh,Indore,86,0,4,Clothing,T-shirt
+O-25704,29-06-2022,8,Riya,Maharashtra,Mumbai,133,-42,1,Electronics,Printers
+O-25705,30-06-2022,7,Shweta,Madhya Pradesh,Indore,183,-66,5,Electronics,Phones
+O-25706,01-07-2022,8,Swetlana,Goa,Goa,20,-8,2,Clothing,Saree
+O-25707,01-07-2022,5,Shivani,Maharashtra,Mumbai,42,-6,4,Clothing,Saree
+O-25708,01-07-2022,8,Kishwar,Madhya Pradesh,Indore,100,-23,1,Electronics,Phones
+O-25709,01-07-2022,5,Aakanksha,Madhya Pradesh,Indore,30,13,1,Clothing,T-shirt
+O-25710,05-07-2022,8,Megha,Maharashtra,Pune,55,-26,4,Clothing,Saree
+O-25711,06-07-2022,4,Sakshi,Madhya Pradesh,Bhopal,130,-41,4,Clothing,Saree
+O-25712,07-07-2022,7,Adhvaita,Rajasthan,Jaipur,27,-25,2,Clothing,Stole
+O-25713,08-07-2022,9,Raksha,West Bengal,Kolkata,245,-78,2,Electronics,Printers
+O-25714,09-07-2022,6,Stuti,Karnataka,Bangalore,211,-105,2,Clothing,Saree
+O-25715,10-07-2022,1,Srishti,Jammu and Kashmir,Kashmir,31,-2,2,Clothing,Saree
+O-25716,11-07-2022,5,Surabhi,Tamil Nadu,Chennai,28,-26,2,Clothing,Stole
+O-25717,12-07-2022,10,Manshul,Uttar Pradesh,Lucknow,512,-225,5,Clothing,Saree
+O-25718,12-07-2022,4,Anjali,Maharashtra,Mumbai,925,-447,5,Electronics,Electronic Games
+O-25719,12-07-2022,4,Rashmi,Madhya Pradesh,Indore,238,20,2,Clothing,Saree
+O-25720,15-07-2022,10,Namrata,Punjab,Chandigarh,351,-47,8,Electronics,Phones
+O-25721,16-07-2022,10,Anchal,Haryana,Chandigarh,269,111,3,Clothing,Trousers
+O-25722,17-07-2022,4,Inderpreet,Himachal Pradesh,Simla,200,-60,4,Furniture,Bookcases
+O-25723,18-07-2022,5,Wale,Maharashtra,Mumbai,44,-8,3,Clothing,Stole
+O-25724,19-07-2022,2,Sheetal,Madhya Pradesh,Indore,7,0,1,Clothing,Leggings
+O-25725,20-07-2022,1,Anisha,Nagaland,Kohima,11,-4,2,Clothing,Skirt
+O-25726,21-07-2022,10,Kiran,Maharashtra,Mumbai,16,-10,2,Clothing,T-shirt
+O-25727,22-07-2022,10,Turumella,Madhya Pradesh,Indore,172,-103,3,Furniture,Chairs
+O-25728,22-07-2022,4,Ameesha,Maharashtra,Pune,49,3,1,Clothing,Shirt
+O-25729,22-07-2022,8,Madhulika,Madhya Pradesh,Bhopal,823,-18,7,Furniture,Chairs
+O-25730,22-07-2022,6,Rishabh,Rajasthan,Jaipur,23,4,1,Clothing,Saree
+O-25731,26-07-2022,5,Akash,West Bengal,Kolkata,457,-41,4,Clothing,Saree
+O-25732,27-07-2022,5,Anubhaw,Karnataka,Bangalore,24,-21,7,Clothing,Skirt
+O-25733,28-07-2022,2,Dhirajendu,Maharashtra,Mumbai,25,-2,5,Clothing,Hankerchief
+O-25734,29-07-2022,2,Pranav,Madhya Pradesh,Indore,174,-70,3,Electronics,Accessories
+O-25735,30-07-2022,7,Arindam,Uttar Pradesh,Lucknow,206,-206,3,Clothing,Saree
+O-25736,31-07-2022,5,Akshat,Maharashtra,Mumbai,21,-13,3,Clothing,Leggings
+O-25737,01-08-2022,8,Shubham,Madhya Pradesh,Indore,34,-6,4,Clothing,Leggings
+O-25738,02-08-2022,5,Ayush,Punjab,Chandigarh,9,-6,2,Clothing,Hankerchief
+O-25739,03-08-2022,1,Daksh,Haryana,Chandigarh,1279,-640,8,Electronics,Printers
+O-25740,03-08-2022,6,Rane,Maharashtra,Mumbai,28,-3,2,Clothing,Saree
+O-25741,03-08-2022,3,Navdeep,Madhya Pradesh,Indore,427,-50,7,Electronics,Phones
+O-25742,03-08-2022,7,Ashwin,Goa,Goa,168,-10,3,Electronics,Accessories
+O-25743,07-08-2022,8,Aman,Nagaland,Kohima,1327,318,8,Furniture,Chairs
+O-25744,08-08-2022,6,Devendra,Andhra Pradesh,Hyderabad,195,-117,5,Electronics,Phones
+O-25745,09-08-2022,3,Kartik,Gujarat,Ahmedabad,115,25,1,Electronics,Accessories
+O-25746,10-08-2022,7,Shivam,Maharashtra,Pune,668,-31,3,Electronics,Printers
+O-25747,11-08-2022,9,Harsh,Madhya Pradesh,Bhopal,227,102,8,Electronics,Accessories
+O-25748,12-08-2022,7,Nitant,Rajasthan,Jaipur,34,12,3,Clothing,Hankerchief
+O-25749,13-08-2022,5,Ayush,Maharashtra,Mumbai,229,-23,2,Clothing,Saree
+O-25750,14-08-2022,2,Priyanshu,Madhya Pradesh,Indore,54,-3,3,Clothing,Saree
+O-25751,14-08-2022,3,Nishant,Maharashtra,Mumbai,269,-86,2,Electronics,Electronic Games
+O-25752,14-08-2022,10,Vaibhav,Madhya Pradesh,Indore,122,-21,3,Furniture,Furnishings
+O-25753,17-08-2022,8,Shivam,Uttar Pradesh,Lucknow,105,46,2,Clothing,Stole
+O-25754,18-08-2022,10,Akshay,Bihar,Patna,450,-90,3,Electronics,Printers
+O-25755,19-08-2022,9,Shourya,Kerala ,Thiruvananthapuram,121,-17,3,Furniture,Furnishings
+O-25756,20-08-2022,7,Mohan,Maharashtra,Mumbai,44,-26,3,Clothing,Hankerchief
+O-25757,21-08-2022,4,Mohit,Madhya Pradesh,Indore,7,-4,3,Clothing,Hankerchief
+O-25758,22-08-2022,4,Shubham,Himachal Pradesh,Simla,396,-31,9,Clothing,Saree
+O-25759,23-08-2022,10,Soumya,Sikkim,Gangtok,97,-62,2,Clothing,Trousers
+O-25760,24-08-2022,1,Pooja,Goa,Goa,110,-68,4,Clothing,Saree
+O-25761,25-08-2022,10,Surabhi,Maharashtra,Mumbai,312,-312,7,Furniture,Chairs
+O-25762,26-08-2022,3,Anudeep,Madhya Pradesh,Indore,9,-6,2,Clothing,Skirt
+O-25763,27-08-2022,9,Noshiba,Gujarat,Ahmedabad,6,-3,1,Clothing,Hankerchief
+O-25764,28-08-2022,5,Sanjova,Maharashtra,Pune,74,23,8,Clothing,Skirt
+O-25765,29-08-2022,8,Meghana,Madhya Pradesh,Bhopal,534,0,3,Clothing,Saree
+O-25766,30-08-2022,8,Surabhi,Rajasthan,Jaipur,30,-5,5,Clothing,Stole
+O-25767,31-08-2022,9,Ashmeet,West Bengal,Kolkata,61,-23,2,Clothing,Saree
+O-25768,01-09-2022,1,Shreyoshe,Karnataka,Bangalore,6,3,1,Clothing,Hankerchief
+O-25769,02-09-2022,6,Surbhi,Maharashtra,Mumbai,24,-1,2,Clothing,Hankerchief
+O-25770,02-09-2022,2,Sakshi,Madhya Pradesh,Indore,56,18,2,Clothing,Hankerchief
+O-25771,02-09-2022,2,Vaibhavi,Uttar Pradesh,Lucknow,406,126,2,Clothing,Saree
+O-25772,02-09-2022,5,Sanjana,Bihar,Patna,624,37,2,Electronics,Electronic Games
+O-25773,06-09-2022,5,Shreya,Kerala ,Thiruvananthapuram,101,18,9,Clothing,Skirt
+O-25774,07-09-2022,5,Snehal,Punjab,Chandigarh,1389,680,7,Clothing,Saree
+O-25775,08-09-2022,8,Duhita,Haryana,Chandigarh,651,169,5,Electronics,Printers
+O-25776,09-09-2022,1,Mousam,Maharashtra,Mumbai,13,-1,3,Clothing,Hankerchief
+O-25777,10-09-2022,8,Aditi,Madhya Pradesh,Indore,1021,-48,4,Electronics,Electronic Games
+O-25778,11-09-2022,9,Surabhi,Maharashtra,Mumbai,32,-22,5,Clothing,Saree
+O-25779,12-09-2022,5,Savi,Madhya Pradesh,Indore,332,-43,6,Electronics,Phones
+O-25780,13-09-2022,4,Teena,Andhra Pradesh,Hyderabad,288,-180,4,Furniture,Chairs
+O-25781,14-09-2022,9,Rutuja,Gujarat,Ahmedabad,27,9,2,Clothing,T-shirt
+O-25782,15-09-2022,7,Aayushi,Maharashtra,Mumbai,148,72,7,Clothing,T-shirt
+O-25783,15-09-2022,8,Shivangi,Madhya Pradesh,Indore,245,-78,3,Clothing,Saree
+O-25784,15-09-2022,1,Rohit,Rajasthan,Jaipur,19,-15,3,Clothing,Hankerchief
+O-25785,15-09-2022,6,Ayush,West Bengal,Kolkata,224,-81,3,Furniture,Chairs
+O-25786,19-09-2022,6,Abhishek,Karnataka,Bangalore,58,-42,2,Furniture,Chairs
+O-25787,20-09-2022,6,Asish,Jammu and Kashmir,Kashmir,145,-104,5,Furniture,Chairs
+O-25788,21-09-2022,7,Dinesh,Tamil Nadu,Chennai,55,-33,2,Furniture,Chairs
+O-25789,22-09-2022,4,Akshay,Uttar Pradesh,Lucknow,7,-1,2,Clothing,Hankerchief
+O-25790,23-09-2022,10,Sajal,Bihar,Patna,24,-2,2,Clothing,T-shirt
+O-25791,24-09-2022,7,Avish,Kerala ,Thiruvananthapuram,86,-21,1,Electronics,Electronic Games
+O-25792,24-09-2022,8,Abhishek,Maharashtra,Mumbai,385,-77,11,Furniture,Furnishings
+O-25793,24-09-2022,5,Siddharth,Madhya Pradesh,Indore,294,138,2,Electronics,Printers
+O-25794,24-09-2022,4,Aditya,Himachal Pradesh,Simla,444,-200,4,Electronics,Phones
+O-25795,24-09-2022,1,Sukant,Sikkim,Gangtok,785,52,2,Electronics,Phones
+O-25796,24-09-2022,3,Sukrith,Maharashtra,Mumbai,258,-27,2,Electronics,Phones
+O-25797,30-09-2022,6,Sauptik,Madhya Pradesh,Indore,83,-48,1,Furniture,Bookcases
+O-25798,01-10-2022,10,Shishu,Andhra Pradesh,Hyderabad,166,-113,4,Electronics,Accessories
+O-25799,01-10-2022,7,Divyansh,Gujarat,Ahmedabad,934,-916,7,Electronics,Electronic Games
+O-25800,01-10-2022,8,Ishit,Maharashtra,Pune,11,-2,4,Clothing,Hankerchief
+O-25801,01-10-2022,10,Aryan,Madhya Pradesh,Bhopal,41,6,5,Clothing,Skirt
+O-25802,05-10-2022,6,Yash,Maharashtra,Mumbai,344,-34,3,Clothing,Saree
+O-25803,05-10-2022,7,Shivanshu,Madhya Pradesh,Indore,1030,206,8,Electronics,Printers
+O-25804,05-10-2022,9,Sudheer,Karnataka,Bangalore,516,69,4,Furniture,Bookcases
+O-25805,05-10-2022,7,Ankit,Maharashtra,Mumbai,123,17,3,Furniture,Furnishings
+O-25806,06-10-2022,7,Dhanraj,Madhya Pradesh,Indore,610,-66,2,Furniture,Tables
+O-25807,07-10-2022,9,Vipul,Uttar Pradesh,Lucknow,74,29,3,Clothing,Stole
+O-25808,08-10-2022,9,Apsingekar,Bihar,Patna,24,1,2,Clothing,Hankerchief
+O-25809,09-10-2022,4,Suman,Kerala ,Thiruvananthapuram,14,2,1,Clothing,Hankerchief
+O-25810,10-10-2022,2,Nripraj,Punjab,Chandigarh,656,-36,2,Furniture,Bookcases
+O-25811,10-10-2022,5,Utsav,Maharashtra,Mumbai,832,0,3,Clothing,Trousers
+O-25812,10-10-2022,10,Kshitij,Madhya Pradesh,Indore,27,-15,1,Clothing,Stole
+O-25813,10-10-2022,1,Hrisheekesh,Maharashtra,Mumbai,143,-124,5,Clothing,Saree
+O-25814,10-10-2022,9,Swapnil,Madhya Pradesh,Indore,44,-17,5,Clothing,Saree
+O-25815,10-10-2022,5,Harsh,Nagaland,Kohima,45,-2,4,Clothing,Shirt
+O-25816,12-10-2022,1,Mane,Andhra Pradesh,Hyderabad,16,-1,1,Clothing,Saree
+O-25817,13-10-2022,4,Praneet,Maharashtra,Mumbai,37,-5,3,Clothing,T-shirt
+O-25818,14-10-2022,8,Sandeep,Madhya Pradesh,Indore,17,-12,5,Clothing,Skirt
+O-25819,15-10-2022,5,Ankur,Madhya Pradesh,Bhopal,929,-93,9,Clothing,Saree
+O-25820,16-10-2022,7,Dheeraj,Rajasthan,Jaipur,342,-103,4,Electronics,Electronic Games
+O-25821,16-10-2022,4,Ajay,West Bengal,Kolkata,1263,-56,5,Clothing,Trousers
+O-25822,18-10-2022,5,Tejas,Karnataka,Bangalore,674,-187,2,Furniture,Tables
+O-25823,18-10-2022,7,Rohan,Maharashtra,Mumbai,32,6,3,Clothing,Shirt
+O-25824,20-10-2022,3,Shyam,Madhya Pradesh,Indore,79,36,4,Clothing,Shirt
+O-25825,21-10-2022,1,Kartik,Madhya Pradesh,Indore,20,-2,1,Electronics,Accessories
+O-25826,22-10-2022,8,Tanushree,Maharashtra,Mumbai,64,-7,3,Clothing,Saree
+O-25827,23-10-2022,7,Sheetal,Madhya Pradesh,Indore,7,-3,2,Clothing,Skirt
+O-25828,24-10-2022,3,Nikita,Punjab,Chandigarh,327,-39,1,Electronics,Phones
+O-25829,25-10-2022,1,Apoorva,Haryana,Chandigarh,27,-25,2,Clothing,Shirt
+O-25830,26-10-2022,3,Aastha,Himachal Pradesh,Simla,76,-50,1,Clothing,Saree
+O-25831,27-10-2022,1,Mahima,Sikkim,Gangtok,73,-25,3,Clothing,Saree
+O-25832,28-10-2022,1,Harshita,Maharashtra,Mumbai,68,-27,3,Electronics,Accessories
+O-25833,29-10-2022,4,Krishna,Madhya Pradesh,Indore,523,204,7,Clothing,Trousers
+O-25834,29-10-2022,3,Ananya,Andhra Pradesh,Hyderabad,44,-3,1,Clothing,Saree
+O-25835,29-10-2022,2,Moumita,Gujarat,Ahmedabad,243,-14,2,Furniture,Chairs
+O-25836,29-10-2022,1,Arti,Maharashtra,Pune,1625,-77,3,Electronics,Phones
+O-25837,29-10-2022,9,Palak,Maharashtra,Mumbai,1096,-658,7,Electronics,Electronic Games
+O-25838,29-10-2022,10,Sanjana,Madhya Pradesh,Indore,545,-73,11,Electronics,Phones
+O-25839,30-10-2022,4,Pranjali,West Bengal,Kolkata,433,26,3,Electronics,Printers
+O-25840,31-10-2022,5,Sneha,Karnataka,Bangalore,245,-3,4,Electronics,Phones
+O-25841,01-11-2022,4,Ashvini,Maharashtra,Mumbai,155,56,3,Furniture,Furnishings
+O-25842,02-11-2022,5,Sheetal,Madhya Pradesh,Indore,148,52,5,Clothing,Stole
+O-25843,03-11-2022,8,Mrunal,Maharashtra,Mumbai,86,-55,6,Clothing,Saree
+O-25844,03-11-2022,9,Swati,Madhya Pradesh,Indore,134,42,2,Furniture,Chairs
+O-25845,03-11-2022,5,Snel,Kerala ,Thiruvananthapuram,51,7,2,Furniture,Furnishings
+O-25846,03-11-2022,8,Soodesh,Punjab,Chandigarh,529,137,3,Electronics,Phones
+O-25847,03-11-2022,1,Aniket,Haryana,Chandigarh,264,-30,3,Furniture,Furnishings
+O-25848,03-11-2022,10,Rohan,Himachal Pradesh,Simla,45,-2,4,Clothing,Shirt
+O-25849,04-11-2022,7,K,Sikkim,Gangtok,381,-13,2,Clothing,Saree
+O-25850,05-11-2022,9,Abhishek,Goa,Goa,332,-503,3,Electronics,Printers
+O-25851,06-11-2022,1,Kushal,Nagaland,Kohima,1829,-56,6,Furniture,Tables
+O-25852,07-11-2022,4,Soumyabrata,Andhra Pradesh,Hyderabad,17,6,1,Clothing,Stole
+O-25853,08-11-2022,10,Gaurav,Gujarat,Ahmedabad,357,139,2,Clothing,Saree
+O-25854,08-11-2022,3,Shubham,Maharashtra,Pune,51,21,3,Clothing,T-shirt
+O-25855,08-11-2022,9,Abhijeet,Madhya Pradesh,Bhopal,387,-213,5,Clothing,Saree
+O-25856,10-11-2022,7,Abhijeet,Maharashtra,Mumbai,14,-1,4,Clothing,Kurti
+O-25857,10-11-2022,1,Anand,Madhya Pradesh,Indore,352,-345,5,Clothing,Saree
+O-25858,13-11-2022,1,Swapnil,Maharashtra,Mumbai,469,-459,3,Electronics,Electronic Games
+O-25859,14-11-2022,4,Chikku,Madhya Pradesh,Indore,97,17,2,Clothing,Stole
+O-25860,15-11-2022,6,Akshay,Tamil Nadu,Chennai,149,36,3,Clothing,Stole
+O-25861,15-11-2022,5,Aayush,Uttar Pradesh,Lucknow,31,10,3,Clothing,Skirt
+O-25862,15-11-2022,3,Amol,Bihar,Patna,714,56,4,Clothing,Saree
+O-25863,15-11-2022,10,Manibalan,Kerala ,Thiruvananthapuram,75,-25,3,Clothing,Stole
+O-25864,15-11-2022,6,Aromal,Maharashtra,Mumbai,17,-9,3,Clothing,Stole
+O-25865,15-11-2022,9,Arun,Madhya Pradesh,Indore,141,28,7,Furniture,Furnishings
+O-25866,16-11-2022,9,Komal,Himachal Pradesh,Simla,76,-72,9,Clothing,Hankerchief
+O-25867,17-11-2022,7,Ankit,Sikkim,Gangtok,632,-316,6,Clothing,Saree
+O-25868,18-11-2022,10,Vikash,Goa,Goa,32,-16,6,Clothing,Saree
+O-25869,19-11-2022,3,Parakh,Nagaland,Kohima,68,-30,1,Electronics,Phones
+O-25870,20-11-2022,5,Pranav,Andhra Pradesh,Hyderabad,82,-39,5,Clothing,T-shirt
+O-25871,21-11-2022,10,Gunjal,Gujarat,Surat,72,-49,1,Electronics,Phones
+O-25872,22-11-2022,6,Saurabh,Maharashtra,Mumbai,13,-13,2,Clothing,Skirt
+O-25873,23-11-2022,8,Divyeta,Madhya Pradesh,Indore,167,43,7,Clothing,T-shirt
+O-25874,24-11-2022,8,Megha,Rajasthan,Udaipur,171,14,9,Clothing,Shirt
+O-25875,24-11-2022,9,Divyeshkumar,Uttar Pradesh,Allahabad,117,-6,3,Electronics,Phones
+O-25876,24-11-2022,1,Bhosale,Punjab,Amritsar,116,-4,1,Clothing,Saree
+O-25877,24-11-2022,9,Dashyam,Gujarat,Surat,887,80,3,Electronics,Printers
+O-25878,24-11-2022,5,Mrinal,Maharashtra,Mumbai,275,-275,4,Clothing,Saree
+O-25879,24-11-2022,1,Siddharth,Madhya Pradesh,Indore,44,7,3,Clothing,Kurti
+O-25880,24-11-2022,7,Apoorv,Rajasthan,Udaipur,168,-9,3,Clothing,Saree
+O-25881,25-11-2022,9,Pooja,Uttar Pradesh,Allahabad,114,8,3,Electronics,Accessories
+O-25882,26-11-2022,4,Masurkar,Punjab,Amritsar,1300,-16,8,Electronics,Printers
+O-25883,27-11-2022,10,Saptadeep,Gujarat,Surat,4,-3,1,Clothing,Skirt
+O-25884,28-11-2022,7,Sumeet,Maharashtra,Mumbai,73,-7,1,Electronics,Phones
+O-25885,28-11-2022,3,Shatayu,Madhya Pradesh,Indore,67,-42,3,Clothing,Stole
+O-25886,28-11-2022,6,Brijesh,Rajasthan,Udaipur,322,-193,5,Electronics,Printers
+O-25887,01-12-2022,6,Vedant,Uttar Pradesh,Allahabad,115,-39,3,Clothing,Trousers
+O-25888,02-12-2022,10,Rohan,Punjab,Amritsar,87,-83,5,Clothing,Kurti
+O-25889,03-12-2022,6,Abhishek,Gujarat,Surat,27,-6,4,Clothing,Hankerchief
+O-25890,04-12-2022,7,Divyansha,Maharashtra,Mumbai,207,-153,3,Clothing,Saree
+O-25891,04-12-2022,2,Shivani,Madhya Pradesh,Indore,516,-392,8,Furniture,Chairs
+O-25892,04-12-2022,5,Aditi,Rajasthan,Udaipur,7,-2,1,Clothing,Hankerchief
+O-25893,04-12-2022,4,Aashna,Uttar Pradesh,Allahabad,65,-16,2,Electronics,Phones
+O-25894,04-12-2022,9,Monu,Punjab,Amritsar,20,-22,1,Furniture,Furnishings
+O-25895,04-12-2022,6,Sathya,Gujarat,Surat,49,-31,2,Clothing,Stole
+O-25896,05-12-2022,2,Aman,Maharashtra,Mumbai,34,-13,5,Clothing,Leggings
+O-25897,06-12-2022,1,Rohan,Madhya Pradesh,Indore,21,-5,1,Electronics,Accessories
+O-25898,07-12-2022,6,Abhishek,Rajasthan,Udaipur,129,-75,5,Clothing,Shirt
+O-25899,08-12-2022,4,Aishwarya,Uttar Pradesh,Allahabad,44,-32,3,Clothing,Stole
+O-25900,09-12-2022,8,Anand,Punjab,Amritsar,7,-3,2,Clothing,Hankerchief
+O-25901,10-12-2022,8,Suraj,Gujarat,Surat,10,-8,2,Clothing,Skirt
+O-25902,10-12-2022,3,Ishpreet,Maharashtra,Mumbai,33,-29,3,Clothing,Shirt
+O-25903,10-12-2022,1,Amlan,Madhya Pradesh,Indore,98,-45,2,Furniture,Chairs
+O-25904,10-12-2022,5,Swapnil,Delhi,Delhi,33,-12,5,Clothing,Hankerchief
+O-25905,11-12-2022,7,Bhargav,Madhya Pradesh,Delhi,75,0,3,Clothing,Shirt
+O-25906,11-12-2022,4,Abhijit,Delhi,Delhi,424,-17,9,Furniture,Chairs
+O-25907,11-12-2022,1,Jaydeep,Madhya Pradesh,Bhopal,31,-3,4,Clothing,Saree
+O-25908,12-12-2022,5,Pradeep,Delhi,Delhi,941,-203,3,Furniture,Tables
+O-25909,13-12-2022,8,Sujay,Madhya Pradesh,Delhi,306,-147,3,Clothing,Saree
+O-25910,14-12-2022,2,Jay,Delhi,Delhi,42,-23,2,Furniture,Furnishings
+O-25911,15-12-2022,8,Phalguni,Madhya Pradesh,Bhopal,17,-3,2,Clothing,Stole
+O-25912,16-12-2022,8,Preksha,Delhi,Delhi,32,-5,5,Clothing,Hankerchief
+O-25913,17-12-2022,5,Geetanjali,Madhya Pradesh,Delhi,231,-190,9,Clothing,Hankerchief
+O-25914,18-12-2022,5,Kajal,Delhi,Delhi,22,-15,4,Clothing,Kurti
+O-25915,19-12-2022,4,Sukruta,Punjab,Amritsar,97,-45,4,Clothing,Saree
+O-25916,20-12-2022,4,Utkarsh,Gujarat,Surat,47,-27,4,Clothing,Saree
+O-25917,21-12-2022,2,Sanjay,Maharashtra,Mumbai,186,-141,9,Clothing,Shirt
+O-25918,22-12-2022,8,Karandeep,Madhya Pradesh,Indore,126,-63,3,Electronics,Accessories
+O-25919,23-12-2022,9,Neha,Rajasthan,Udaipur,102,0,3,Electronics,Phones
+O-25920,24-12-2022,6,Jayanti,Uttar Pradesh,Allahabad,46,0,2,Electronics,Electronic Games
+O-25921,25-12-2022,5,Sandra,Punjab,Amritsar,31,-11,4,Clothing,Stole
+O-25922,26-12-2022,5,Akshata,Gujarat,Surat,8,-6,1,Clothing,Stole
+O-25923,27-12-2022,5,Vishakha,Maharashtra,Mumbai,191,13,8,Furniture,Furnishings
+O-25924,28-12-2022,9,Prajakta,Karnataka,Bangalore,709,-100,5,Electronics,Phones
+O-25925,29-12-2022,9,Shruti,Maharashtra,Mumbai,81,-51,7,Clothing,Stole
+O-25926,30-12-2022,7,Dipali,Madhya Pradesh,Indore,32,-8,2,Clothing,Stole
+O-25927,31-12-2022,1,Shreya,Uttar Pradesh,Lucknow,33,-12,7,Clothing,Saree
